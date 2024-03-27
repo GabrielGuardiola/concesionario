@@ -1,0 +1,18 @@
+
+›	java:S116"TRename this field "MAX_SPEED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Á×ÿÿÿÿÿ8ÈŒıç1J$9c6ca8fa-7803-4379-820d-93ea4c13c427
+i
+java:S1170"!Make this final field static too.(™Á×ÿÿÿÿÿ8ìŒıç1J$a894a126-57e2-49af-9842-e4391aad2c5b
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ú©†øÿÿÿÿ8–­İüç1J$097aa65e-b9a6-444c-ae04-b44d42cd0ae5
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À­Šşÿÿÿÿ8–­İüç1J$3dfef1b5-484e-4642-85b2-77c179429a31
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãåÔùÿÿÿÿ8–­İüç1J$de737bb6-548c-431a-bf63-5a68af940832
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Ú˜â8Ç‘‰ıç1J$e1c5fa5f-b692-4b0f-aeb8-74375994dbd3
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁÒ¨ğıÿÿÿÿ8Ç‘‰ıç1J$b958938b-a205-4cfa-99ad-5c23efd92bf7
+Ä
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Àö­8Ç‘‰ıç1J$dc50558e-ffec-4d15-893e-f51eb360cf85
+u
+java:S1068"-Remove this unused "MAX_SPEED" private field.(™Á×ÿÿÿÿÿ8…ÈŒıç1J$8ddbdca6-6599-4a83-b421-9ca3d5dd800e

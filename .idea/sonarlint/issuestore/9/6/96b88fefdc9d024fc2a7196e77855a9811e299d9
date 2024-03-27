@@ -1,0 +1,12 @@
+
+k
+java:S5411&"(Use a primitive boolean expression here.(ì¡ãã8´øøüç1J$bfc24e3d-5d4f-40d8-9391-28ddfe12f37b
+k
+java:S54112"(Use a primitive boolean expression here.(ì¡ãã8´øøüç1J$e6f5bacc-bd5e-4b74-9676-1e5f03cb5ed2
+–	java:S116"TRename this field "MAX_SPEED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¥ú«8·øøüç1J$654a7b98-c7e6-4d4f-94b9-6345441980ae
+d
+java:S1170"!Make this final field static too.(±¥ú«8—š‹ıç1J$ba66a186-fc45-407a-b039-16e9a981b160
+r	java:S106'"+Replace this use of System.out by a logger.(îË²ıøÿÿÿÿ8»øøüç1J$0ee753a8-3163-4459-baf3-2fd771ef1536
+r	java:S106+"+Replace this use of System.out by a logger.(Í õúÿÿÿÿ8»øøüç1J$710e8a52-61c1-4bf9-94d1-8b45f3e9cc83
+r	java:S1064"+Replace this use of System.out by a logger.(Ë›±±ıÿÿÿÿ8¼øøüç1J$3eb757e9-dfd2-402e-ac62-02c546679ae2
+m	java:S1067"+Replace this use of System.out by a logger.(èÆÿ¾8¼øøüç1J$07c1d0c6-c8d3-460a-bf75-2f80c3505df4
