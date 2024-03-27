@@ -8,6 +8,8 @@ public abstract class PartTypeBase implements PartType {
     private PartState partState;
 
     protected PartTypeBase(String partName, PartState partState) {
+        this.partName = partName;
+        this.partState = partState;
     }
     @Override
     public String getPartName() {

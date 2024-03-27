@@ -9,7 +9,6 @@ public class Main {
         ConcesionarioApplication concesionarioApplication = new ConcesionarioApplication(new CarPrinterManager(new PartsPrinterManager()));
         concesionarioApplication.run();
     }
-
 }
 
 //Por consola.
